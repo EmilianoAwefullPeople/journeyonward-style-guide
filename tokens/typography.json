@@ -1,0 +1,39 @@
+{
+  "_comment": "Reference snapshot from Journey Onward v1, extracted 2026-09-14. See ../foundations/typography.md.",
+  "fonts": {
+    "inter": "Inter",
+    "playfairDisplay": "Playfair Display",
+    "permanentMarker": "PermanentMarker_400Regular",
+    "caveat": "Caveat_400Regular",
+    "mono": "Courier New"
+  },
+  "fontSizes": {
+    "xs": 8,
+    "sm": 12,
+    "base": 16,
+    "md": 18,
+    "lg": 20,
+    "xl": 24,
+    "2xl": 32,
+    "3xl": 36,
+    "4xl": 40
+  },
+  "fontWeights": {
+    "regular": "400",
+    "semibold": "600",
+    "bold": "700",
+    "black": "900"
+  },
+  "textStyles": {
+    "headerGreeting": { "fontFamily": "Inter", "fontSize": 24, "fontWeight": "600", "color": "#FFFFFF" },
+    "navTab": { "fontFamily": "Inter", "fontSize": 24, "fontWeight": "600" },
+    "navTabActive": { "color": "#FFFFFF" },
+    "navTabInactive": { "color": "#2E2E2E" },
+    "cardTitle": { "fontFamily": "Inter", "fontSize": 16, "fontWeight": "600", "color": "#FFFFFF" },
+    "entryLabel": { "fontFamily": "Inter", "fontSize": 16, "fontWeight": "700", "color": "#3A6B33" },
+    "entryInput": { "fontFamily": "Inter", "fontSize": 24, "fontWeight": "400", "color": "#FFFFFF" },
+    "mapControlButton": { "fontFamily": "Inter", "fontSize": 8, "fontWeight": "700", "color": "#141212" },
+    "mapLocationLabel": { "fontFamily": "Inter", "fontSize": 16, "fontWeight": "600", "color": "#FFFFFF" },
+    "placeholderText": { "fontFamily": "Playfair Display", "fontSize": 18, "fontWeight": "600", "fontStyle": "italic", "color": "#141212" }
+  }
+}

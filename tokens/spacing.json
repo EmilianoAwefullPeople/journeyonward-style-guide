@@ -1,0 +1,25 @@
+{
+  "_comment": "Reference snapshot from Journey Onward v1, extracted 2026-09-14. See ../foundations/spacing-and-layout.md.",
+  "spacing": {
+    "xs": 4,
+    "sm": 8,
+    "md": 16,
+    "lg": 24,
+    "xl": 32,
+    "xxl": 48,
+    "xxxl": 64
+  },
+  "borderRadius": {
+    "cardBorderRadius": 8,
+    "photoCardBorderRadius": 16,
+    "medium": 10,
+    "large": 20,
+    "modal": 24
+  },
+  "referenceWidth": 390,
+  "bottomNavHeight": 88,
+  "captureButton": {
+    "outer": 76,
+    "inner": 64
+  }
+}
